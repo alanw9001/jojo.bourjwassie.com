@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-light {
+    background-color: rgb(183, 255, 255) !important;
+}
+
+.intro {
+    margin: 10em;
+    align-content: center;
+}
+
+.extraspace {
+    margin: 7em;
+}
